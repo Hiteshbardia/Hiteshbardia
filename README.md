@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **advance Python**
 
-- 📫 How to reach me **hbj09208@gmail.com**
+- 📫 How to reach me **hiteshbardia07@gmail.com**
 
 - ⚡ Fun fact **I think coding is easier then 2 min maggi**
 
