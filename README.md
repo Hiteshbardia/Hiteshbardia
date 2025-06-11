@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Bardia</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshbardia&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshbardia" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **chatbot using AI**
 
-- 🌱 I’m currently learning **react js , javafullstack**
-
-- 👯 I’m looking to collaborate on **cloud native**
+- 🌱 I’m currently learning **Tablue , Advance Excel**
 
 - 🤝 I’m looking for help with **advance Python**
 
