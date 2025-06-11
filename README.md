@@ -23,6 +23,15 @@
 
 ---
 
+## 💼 Core Tools
+
+- **Power BI** – Dashboards & Reports  
+- **Microsoft Excel** – Pivot Tables, Formulas, Charts  
+- **SQL** – Data Extraction & Transformation  
+- **Python** – Data Cleaning, Analysis, and Visualization  
+
+---
+
 ## 🚀 Top Projects
 
 ### 📈 [Blinkit Sales & Growth Dashboard (Power BI)](https://github.com/Hiteshbardia/Blinkit-Sales-and-Growth-Dashboard-using-Power-BI)
@@ -41,7 +50,7 @@
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Additional Tools & Technologies
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40"/>
@@ -52,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" height="40"/>
 </p>
 
 ---
@@ -61,9 +70,6 @@
 
 - 📧 Email: **hiteshbardia07@gmail.com**  
 - 💬 Open to: Internships, freelance projects, and collaborations in Data, BI, and Web  
-- 💼 LinkedIn: *[Coming soon]*  
-- 🌐 Portfolio: *[Coming soon]*  
-
 ---
 
 ## 📊 GitHub Stats
